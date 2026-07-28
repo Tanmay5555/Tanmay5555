@@ -114,6 +114,70 @@
 
 <br/>
 
+<!-- FEATURED PROJECTS SECTION -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table width="100%">
+  <!-- PROJECT 1 -->
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🌐 Modern Portfolio & Web Apps &nbsp;<code>Frontend Application</code></h3>
+      <p>
+        A responsive web application featuring custom UI components, smooth state management, and optimized asset loading. Designed with a mobile-first approach and clean design principles.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Tanmay5555/Project-1">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+        &nbsp;
+        <a href="https://tanmay5555.github.io/Project-1">
+          <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 2 -->
+  <tr>
+    <td width="100%" valign="top">
+      <h3>📊 Interactive Web Dashboard &nbsp;<code>React & Database</code></h3>
+      <p>
+        An intuitive user interface integrated with relational SQL database queries, providing real-time data visualization, seamless UI updates, and filter capabilities.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Tanmay5555/Project-2">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+        &nbsp;
+        <a href="https://tanmay5555.github.io/Project-2">
+          <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
 <!-- GITHUB STATS SECTION -->
 ## 📊 GitHub Analytics
 
