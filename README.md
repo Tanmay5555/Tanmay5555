@@ -123,9 +123,9 @@
   <!-- PROJECT 1 -->
   <tr>
     <td width="100%" valign="top">
-      <h3>🌐 Modern Portfolio & Web Apps &nbsp;<code>Frontend Application</code></h3>
+      <h3>📌 [YOUR PROJECT 1 TITLE] &nbsp;<code>Frontend Web App</code></h3>
       <p>
-        A responsive web application featuring custom UI components, smooth state management, and optimized asset loading. Designed with a mobile-first approach and clean design principles.
+        <i>Replace this text with a concise 2-3 sentence overview of your primary project. Mention key features like responsive UI design, component structure, state management, or API integrations.</i>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -134,11 +134,11 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/Tanmay5555/Project-1">
+        <a href="https://github.com/Tanmay5555/YOUR-REPOSITORY-NAME">
           <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
         </a>
         &nbsp;
-        <a href="https://tanmay5555.github.io/Project-1">
+        <a href="https://YOUR-LIVE-DEMO-URL.vercel.app">
           <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
         </a>
       </p>
@@ -148,9 +148,9 @@
   <!-- PROJECT 2 -->
   <tr>
     <td width="100%" valign="top">
-      <h3>📊 Interactive Web Dashboard &nbsp;<code>React & Database</code></h3>
+      <h3>📌 [YOUR PROJECT 2 TITLE] &nbsp;<code>Full Stack / Database App</code></h3>
       <p>
-        An intuitive user interface integrated with relational SQL database queries, providing real-time data visualization, seamless UI updates, and filter capabilities.
+        <i>Replace this text with details about your second project (e.g., an interactive dashboard, SQL/database-backed web app, or C++ algorithmic visualizer).</i>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -158,11 +158,11 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/Tanmay5555/Project-2">
+        <a href="https://github.com/Tanmay5555/YOUR-REPOSITORY-NAME">
           <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
         </a>
         &nbsp;
-        <a href="https://tanmay5555.github.io/Project-2">
+        <a href="https://YOUR-LIVE-DEMO-URL.vercel.app">
           <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
         </a>
       </p>
